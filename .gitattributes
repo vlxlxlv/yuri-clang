@@ -1,2 +1,4 @@
 *.so filter=lfs diff=lfs merge=lfs -text
 lib/*.so filter=lfs diff=lfs merge=lfs -text
+lib/libLLVM.so.23.1 filter=lfs diff=lfs merge=lfs -text
+lib/libLLVM.so filter=lfs diff=lfs merge=lfs -text
